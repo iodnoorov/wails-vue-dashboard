@@ -2,7 +2,7 @@
 
 ## About
 
-This is the official Wails Vue-TS template with [vue-board template](https://github.com/tal7aouy/vue-board) installed.
+This is [the official Wails Vue-TS](https://wails.io/docs/gettingstarted/installation) with [vue-board template](https://github.com/tal7aouy/vue-board) installed.
 
 You can configure the project by editing `wails.json`. More information about the project settings can be found
 here: https://wails.io/docs/reference/project-config
